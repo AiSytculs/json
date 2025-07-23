@@ -1,0 +1,49 @@
+[
+  {
+    "title": "🎧 Termux Музыкальный плеер",
+    "description": "Простой bash-плеер для проигрывания музыки в Termux. Поддерживает .mp3 и .wav. | version v1.o",
+    "image": "https://www.dropbox.com/scl/fi/v7d44nwfeleft2b8n9j8u/Screenshot_20250723-024208-1.png?rlkey=vq13gzvx4blk1huznni6u7cfh&st=dkf9vxt8&raw=1",
+    "links": {
+      "github": "https://github.com/AiSytculs/Rs-Termux.git",
+      "dropbox": "https://www.dropbox.com/scl/fi/2vs63m63ad0g51i35z84r/pleyer.sh?rlkey=ou2fpfsvzsf1jfyyya3x0milb&st=2hqssqe6&raw=1",
+      "onedrve": "https://onedrive.live.com/download?resid=ABCDEF123456"
+    }
+  },
+  {
+    "title": "🐧 ASCII-пингвин приветствие",
+    "description": "Скрипт, который при запуске Termux показывает пингвина с текстом приветствия. | version v1.0-beta",
+    "image": "https://www.dropbox.com/scl/fi/fhkqe1qh5h4bthjp9pcpk/Screenshot_20250723-024314-1.png?rlkey=j8qs41ppo8d2cm2t6ee5ofq5p&st=6jlfiulp&raw=1",
+    "links": {
+      "github": "https://github.com/AiSytculs/Rs-Termux",
+      "dropbox": "https://www.dropbox.com/scl/fi/h0eey34yn6yrofxrei5g7/welcome.sh?rlkey=ki1zc68iikhs5vjp2wv15sate&st=2dtwfsq6&raw=1",
+      "version": "10293"
+    }
+  },
+  {
+    "title": "Windos",
+    "description": "Офицеалный виндулс 11 | version 24H2",
+    "image": "https://www.dropbox.com/scl/fi/9ubh3631q404g6dcqo2e9/windos11.png?rlkey=8x64l2viftxlq8ozwe9tbx02j&st=3qd4y4sz&raw=1",
+    "links": {
+      "github": "error.html",
+      "dropbox": "https://cloud.mail.ru/public/HFnp/j2ocQGY91"
+    }
+  },
+  {
+    "title": "Linux Mint",
+    "description": "Linux Mint 3гб | version 22.1",
+    "image": "https://www.linuxmint.com/pictures/screenshots/xia/cinnamon.png",
+    "links": {
+      "github": "error.html",
+      "dropbox": "https://www.linuxmint.com/torrents/linuxmint-22.1-cinnamon-64bit.iso.torrent"
+    }
+  },
+  {
+    "title": "Termux",
+    "description": "Android Termux | version googleplay.2025.01.18",
+    "image": "https://repository-images.githubusercontent.com/857296215/26db8ccd-5653-44d3-a418-c1b62eb36381",
+    "links": {
+      "github": "error.html",
+      "dropbox": "https://d.apkpure.net/b/XAPK/com.termux?version=latest"
+    }
+  }
+]
