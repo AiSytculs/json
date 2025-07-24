@@ -51,5 +51,13 @@
       "yandexDisk": "https://youtu.be/sK18ihQwCqg",
       "dropbox": "https://drive.google.com/drive/folders/1f3rMg4VDMQDjoSbJtLKnkZ9jvYeFmUda?usp=drive_link"
     }
+  },
+   {
+    "title": "Telegram Bot Gimini 2.0",
+    "description": "Telegram Ai bot. Python | version v1.0.7-beta",
+    "image": "https://oromiasamsung.com/wp-content/uploads/2020/10/Bot7.jpg",
+    "links": {
+      "dropbox": "https://www.dropbox.com/scl/fi/8xeg3v2f90mft3g71yxd1/bot.py?rlkey=osihczn9nm9dtb04fut29s3ta&st=zqd077cg&dl=0"
+    }
   }
 ]
